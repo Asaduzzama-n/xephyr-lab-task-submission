@@ -114,33 +114,81 @@ This project is a starter template for a task submission system using TypeScript
    ```
    The server will run on `http://localhost:3000/`.
 
+## API Endpoints
+
+Here is a list of the available API endpoints:
+
+### Tasks
+
+```
+GET /tasks: Get all tasks.
+Returns: [ { "id": "1", "title": "Task 1", "status": "in-progress" }, { "id": "2", "title": "Task 2", "status": "completed" } ]
+```
+
+```
+POST /tasks: Create a new task.
+Body: { "title": "New Task", "status": "pending" }
+Returns: { "id": "3", "title": "New Task", "status": "pending" }
+```
+
+      ```
+
+GET /tasks/:id: Get a specific task by ID.
+
+Returns: { "id": "1", "title": "Task 1", "status": "in-progress" }
+
+```
+
+```
+
+PATCH /tasks/:id: Update a specific task by ID.
+
+Body: { "title": "Updated Task", "status": "completed" }
+Returns: { "id": "1", "title": "Updated Task", "status": "completed" }
+
+```
+
+```
+
+DELETE /tasks/:id: Delete a specific task by ID.
+
+Returns: { "message": "Task deleted successfully" }
+
+```
+
+
+
+
 ### Project Structure
 
 ```
+
 xephyr-lab-task-submission/
 ├── src/
-│   ├── app/                  # Core application logic
-│   │   ├── middlewares/      # Custom middleware
-│   │   ├── modules/          # Feature-specific modules
-│   │       ├── services/     # Business logic services
-│   │       ├── controllers/  # Route controllers
-│   │       ├── models/       # Mongoose models
-│   │       ├── interfaces/   # TypeScript interfaces for models
-│   │       ├── routes/       # API route definitions
-│   │       ├── constants/    # Enums and constants
-│   │       └── validation/   # Zod schemas for validation
-│   ├── routes/               # API route entry points
-│   ├── utils/                # Utility functions
-│   ├── server.ts             # Main server entry point
-│   └── gm.ts                 # Module generator script
-├── task-manager-frontend     # Frontend part
-├── .env                      # Environment variables
-├── .eslintrc.json            # ESLint configuration
-├── .prettierrc               # Prettier configuration
-├── package.json              # NPM dependencies and scripts
-└── README.md                 # Project documentation
+│ ├── app/ # Core application logic
+│ │ ├── middlewares/ # Custom middleware
+│ │ ├── modules/ # Feature-specific modules
+│ │ ├── services/ # Business logic services
+│ │ ├── controllers/ # Route controllers
+│ │ ├── models/ # Mongoose models
+│ │ ├── interfaces/ # TypeScript interfaces for models
+│ │ ├── routes/ # API route definitions
+│ │ ├── constants/ # Enums and constants
+│ │ └── validation/ # Zod schemas for validation
+│ ├── routes/ # API route entry points
+│ ├── utils/ # Utility functions
+│ ├── server.ts # Main server entry point
+│ └── gm.ts # Module generator script
+├── task-manager-frontend # Frontend part
+├── .env # Environment variables
+├── .eslintrc.json # ESLint configuration
+├── .prettierrc # Prettier configuration
+├── package.json # NPM dependencies and scripts
+└── README.md # Project documentation
+
 ```
 
 ### License
 
 This project is licensed under the ISC License.
+```
