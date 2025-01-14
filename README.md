@@ -56,9 +56,7 @@ This project is a starter template for a task submission system using TypeScript
    ```plaintext
    NODE_ENV=development
    database_url=mongodb://localhost:27017/crud-app
-   IP_ADDRESS=192.168.1.198
    PORT=5000
-   BCRYPT_SALT_ROUNDS=12
    ```
 
 4. Start the development server:
@@ -88,7 +86,6 @@ This project is a starter template for a task submission system using TypeScript
 | `npm run prettier:fix`   | Formats code using Prettier.                     |
 | `npm run lint-prettier`  | Runs both linting and Prettier checks.           |
 | `npm test`               | Runs tests (currently not configured).           |
-| `npm run prepare`        | Sets up Husky hooks.                             |
 | `npm run create-module`  | Generates a new module using the script `gm.ts`. |
 
 ### Project Structure
@@ -96,19 +93,25 @@ This project is a starter template for a task submission system using TypeScript
 ```
 xephyr-lab-task-submission/
 ├── src/
-│   ├── controllers/     # Route controllers
-│   ├── middlewares/     # Custom middleware
-│   ├── models/          # Mongoose models
-│   ├── routes/          # API routes
-│   ├── services/        # Business logic services
-│   ├── utils/           # Utility functions
-│   ├── server.ts       # Main server entry point
-│   └── gm.ts           # Module generator script
-├── .env                # Environment variables
-├── .eslintrc.json      # ESLint configuration
-├── .prettierrc         # Prettier configuration
-├── package.json        # NPM dependencies and scripts
-└── README.md           # Project documentation
+│   ├── app/                  # Core application logic
+│   │   ├── middlewares/      # Custom middleware
+│   │   ├── modules/          # Feature-specific modules
+│   │       ├── services/     # Business logic services
+│   │       ├── controllers/  # Route controllers
+│   │       ├── models/       # Mongoose models
+│   │       ├── interfaces/   # TypeScript interfaces for models
+│   │       ├── routes/       # API route definitions
+│   │       ├── constants/    # Enums and constants
+│   │       └── validation/   # Zod schemas for validation
+│   ├── routes/               # API route entry points
+│   ├── utils/                # Utility functions
+│   ├── server.ts             # Main server entry point
+│   └── gm.ts                 # Module generator script
+├── .env                      # Environment variables
+├── .eslintrc.json            # ESLint configuration
+├── .prettierrc               # Prettier configuration
+├── package.json              # NPM dependencies and scripts
+└── README.md                 # Project documentation
 ```
 
 ### License
