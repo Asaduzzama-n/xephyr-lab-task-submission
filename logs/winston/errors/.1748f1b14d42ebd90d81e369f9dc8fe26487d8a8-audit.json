@@ -1,0 +1,15 @@
+{
+    "keep": {
+        "days": true,
+        "amount": 14
+    },
+    "auditLog": "E:\\mobile_app_development\\xephyr-lab-task\\xephyr-lab\\logs\\winston\\errors\\.1748f1b14d42ebd90d81e369f9dc8fe26487d8a8-audit.json",
+    "files": [
+        {
+            "date": 1736823694629,
+            "name": "E:\\mobile_app_development\\xephyr-lab-task\\xephyr-lab\\logs\\winston\\errors\\phu-2025-01-14-09-error.log",
+            "hash": "0434d31d912c3aca2316880aca15ae1f42cb8f956e7cfe80c0018f773d432af7"
+        }
+    ],
+    "hashType": "sha256"
+}

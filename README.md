@@ -69,17 +69,14 @@ This project is a starter template for a task submission system using TypeScript
    ```bash
    npm start
    ```
-   The server will run on `http://192.168.1.198:5000/`.
+   The server will run on `http://localhost:5000/`.
 
 ### Environment Variables
 
-| Variable             | Description                                        |
-| -------------------- | -------------------------------------------------- |
-| `NODE_ENV`           | Set the environment mode (development/production). |
-| `database_url`       | MongoDB connection string.                         |
-| `IP_ADDRESS`         | Local IP address for the server.                   |
-| `PORT`               | Port number for the server.                        |
-| `BCRYPT_SALT_ROUNDS` | Number of salt rounds for password hashing.        |
+| Variable       | Description                                        |
+| -------------- | -------------------------------------------------- |
+| `NODE_ENV`     | Set the environment mode (development/production). |
+| `database_url` | MongoDB connection string.                         |
 
 ### Scripts
 
@@ -115,6 +112,8 @@ This project is a starter template for a task submission system using TypeScript
    The server will run on `http://localhost:3000/`.
 
 ## API Endpoints
+
+Base URL `http://localhost:5000/api/v1/`.
 
 Here is a list of the available API endpoints:
 
@@ -161,7 +160,6 @@ Returns: { "message": "Task deleted successfully" }
 
 ### Project Structure
 
-```
 
 xephyr-lab-task-submission/
 ├── src/
@@ -186,9 +184,11 @@ xephyr-lab-task-submission/
 ├── package.json # NPM dependencies and scripts
 └── README.md # Project documentation
 
-```
+
 
 ### License
 
 This project is licensed under the ISC License.
+
+
 ```

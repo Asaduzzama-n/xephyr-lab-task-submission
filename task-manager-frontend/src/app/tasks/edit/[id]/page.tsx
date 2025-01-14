@@ -2,6 +2,7 @@
 import { useEffect, useState } from 'react'
 import axios from 'axios'
 import { useParams, useRouter } from 'next/navigation'
+import Link from 'next/link'
 
 export default function EditTask() {
   const [formData, setFormData] = useState({
@@ -54,7 +55,15 @@ export default function EditTask() {
       onSubmit={handleSubmit}
       className="p-6  shadow rounded-md space-y-4 w-1/2 mx-auto mt-20 bg-blue-100"
     >
-      <h1 className="text-2xl font-bold">Edit Task</h1>
+      <div className="flex justify-between items-center">
+        <h1 className="text-2xl font-bold">Edit Task</h1>
+        <Link
+          className="bg-white p-2 rounded-md font-semibold"
+          href={'/tasks/'}
+        >
+          Back to home
+        </Link>
+      </div>
       <input
         type="text"
         name="title"

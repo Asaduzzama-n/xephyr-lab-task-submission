@@ -1,0 +1,22 @@
+{Tue Jan 14 2025 9:1:34} [EB 🚀] info: [32m🚀 Database connected successfully[39m
+{Tue Jan 14 2025 9:1:34} [EB 🚀] info: [33m♻️  Application listening on port:5000[39m
+{Tue Jan 14 2025 9:1:35} [EB 🚀] info: ::1 - GET /api/v1/task 200 - 14.936 ms
+{Tue Jan 14 2025 9:1:43} [EB 🚀] info: ::1 - GET /api/v1/task 304 - 4.734 ms
+{Tue Jan 14 2025 9:1:46} [EB 🚀] info: ::1 - GET /api/v1/task/6785b24e940a4c145959d9a1 200 - 4.451 ms
+{Tue Jan 14 2025 9:2:20} [EB 🚀] info: ::1 - GET /api/v1/task/6785b24e940a4c145959d9a1 304 - 2.833 ms
+{Tue Jan 14 2025 9:2:24} [EB 🚀] info: ::1 - GET /api/v1/task/6785b24e940a4c145959d9a1 304 - 2.130 ms
+{Tue Jan 14 2025 9:2:38} [EB 🚀] info: ::1 - GET /api/v1/task/6785b24e940a4c145959d9a1 304 - 2.684 ms
+{Tue Jan 14 2025 9:2:41} [EB 🚀] info: ::1 - GET /api/v1/task 304 - 5.768 ms
+{Tue Jan 14 2025 9:2:48} [EB 🚀] info: ::1 - GET /api/v1/task/6785b28d940a4c145959d9a3 304 - 2.623 ms
+{Tue Jan 14 2025 9:2:49} [EB 🚀] info: ::1 - GET /api/v1/task 304 - 5.320 ms
+{Tue Jan 14 2025 9:2:52} [EB 🚀] info: ::1 - GET /api/v1/task/6785b28d940a4c145959d9a3 304 - 2.112 ms
+{Tue Jan 14 2025 9:2:52} [EB 🚀] info: ::1 - GET /api/v1/task/6785b28d940a4c145959d9a3 304 - 2.669 ms
+{Tue Jan 14 2025 9:2:54} [EB 🚀] info: ::1 - GET /api/v1/task/6785b28d940a4c145959d9a3 304 - 2.104 ms
+{Tue Jan 14 2025 9:2:55} [EB 🚀] info: ::1 - GET /api/v1/task/6785b28d940a4c145959d9a3 304 - 2.076 ms
+{Tue Jan 14 2025 9:2:56} [EB 🚀] info: ::1 - GET /api/v1/task/6785b28d940a4c145959d9a3 304 - 2.261 ms
+{Tue Jan 14 2025 9:3:29} [EB 🚀] info: ::1 - GET /api/v1/task 304 - 4.098 ms
+{Tue Jan 14 2025 9:3:29} [EB 🚀] info: ::1 - GET /api/v1/task 304 - 4.656 ms
+{Tue Jan 14 2025 9:3:31} [EB 🚀] info: ::1 - GET /api/v1/task/6785b28d940a4c145959d9a3 304 - 2.286 ms
+{Tue Jan 14 2025 9:3:31} [EB 🚀] info: ::1 - GET /api/v1/task/6785b28d940a4c145959d9a3 304 - 2.175 ms
+{Tue Jan 14 2025 9:4:5} [EB 🚀] info: ::1 - GET /api/v1/task 304 - 3.642 ms
+{Tue Jan 14 2025 9:4:5} [EB 🚀] info: ::1 - GET /api/v1/task 304 - 2.868 ms
