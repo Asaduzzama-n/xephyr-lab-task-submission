@@ -3,7 +3,7 @@ import { Model } from 'mongoose'
 export type ITask = {
   _id: string
   title: string
-  image: string
+  image?: string
   description?: string
   status?: string
   priority: string

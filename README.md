@@ -25,6 +25,8 @@ This project is a starter template for a task submission system using TypeScript
 ### Technologies Used
 
 - Node.js
+- Next.js
+- Tailwind.css
 - Express.js
 - TypeScript
 - MongoDB
@@ -35,7 +37,11 @@ This project is a starter template for a task submission system using TypeScript
 - JSON Web Tokens (JWT) for authentication
 - Zod (data validation)
 
-### Setup and Installation
+### Setup and Installation Backend
+
+### Prerequisites
+
+- **Node.js**: Make sure you have **Node.js** (v14 or above) installed. You can download it from [here](https://nodejs.org/).
 
 1. Clone the repository:
 
@@ -88,6 +94,26 @@ This project is a starter template for a task submission system using TypeScript
 | `npm test`               | Runs tests (currently not configured).           |
 | `npm run create-module`  | Generates a new module using the script `gm.ts`. |
 
+### Setup and Installation Fronted
+
+1. Change directory:
+
+   ```bash
+   cd task-manager-frontend
+   ```
+
+2. Install dependencies:
+
+   ```bash
+   npm install
+   ```
+
+3. Start the development server:
+   ```bash
+   npm run dev
+   ```
+   The server will run on `http://localhost:3000/`.
+
 ### Project Structure
 
 ```
@@ -107,6 +133,7 @@ xephyr-lab-task-submission/
 │   ├── utils/                # Utility functions
 │   ├── server.ts             # Main server entry point
 │   └── gm.ts                 # Module generator script
+├── task-manager-frontend     # Frontend part
 ├── .env                      # Environment variables
 ├── .eslintrc.json            # ESLint configuration
 ├── .prettierrc               # Prettier configuration

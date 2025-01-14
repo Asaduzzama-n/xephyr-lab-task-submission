@@ -1,0 +1,7 @@
+{Tue Jan 14 2025 8:23:5} [EB 🐞] error: ::1 - PUT /api/v1/task/6785ca6aedb4c48fbaf77eba 404 - 0.522 ms
+{Tue Jan 14 2025 8:23:8} [EB 🐞] error: ::1 - PUT /api/v1/task/6785ca6aedb4c48fbaf77eba 404 - 0.506 ms
+{Tue Jan 14 2025 8:23:9} [EB 🐞] error: ::1 - PUT /api/v1/task/6785ca6aedb4c48fbaf77eba 404 - 0.578 ms
+{Tue Jan 14 2025 8:23:9} [EB 🐞] error: ::1 - PUT /api/v1/task/6785ca6aedb4c48fbaf77eba 404 - 0.476 ms
+{Tue Jan 14 2025 8:23:10} [EB 🐞] error: ::1 - PUT /api/v1/task/6785ca6aedb4c48fbaf77eba 404 - 0.605 ms
+{Tue Jan 14 2025 8:28:22} [EB 🐞] error: ::1 - PATCH /api/v1/task/6785b224940a4c145959d99f 400 - 12.319 ms
+{Tue Jan 14 2025 8:28:39} [EB 🐞] error: ::1 - PATCH /api/v1/task/6785b224940a4c145959d99f 400 - 2.311 ms
