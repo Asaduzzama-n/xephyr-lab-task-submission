@@ -1,5 +1,5 @@
 {
-  "name": "express-starter-template",
+  "name": "xephyr-lab-task-submission",
   "version": "1.0.0",
   "main": "src/server.ts",
   "scripts": {
