@@ -11,7 +11,7 @@
     "lint-prettier": "npm lint:check && npm prettier:check",
     "test": "echo \"Error: no test specified\" && exit 1",
     "prepare": "husky",
-    "create-module": "ts-node ./src/script/gm.ts"
+    "create-module": "ts-node ./src/gm.ts"
   },
   "lint-staged": {
     "src/**/*.ts": "npm lint-prettier"
@@ -40,7 +40,6 @@
     "colors": "^1.4.0",
     "dotenv": "^16.4.5",
     "express": "^4.21.1",
-    "helmet": "^8.0.0",
     "http-status-codes": "^2.3.0",
     "jsonwebtoken": "^9.0.2",
     "mongoose": "^8.8.0",

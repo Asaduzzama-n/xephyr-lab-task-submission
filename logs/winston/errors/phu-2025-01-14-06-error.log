@@ -1,0 +1,10 @@
+{Tue Jan 14 2025 6:31:41} [EB 🐞] error: ::1 - POST /api/v1/task/ 400 - 56.377 ms
+{Tue Jan 14 2025 6:32:5} [EB 🐞] error: ::1 - POST /api/v1/task/ 400 - 3.255 ms
+{Tue Jan 14 2025 6:32:14} [EB 🐞] error: ::1 - POST /api/v1/task/ 400 - 14.070 ms
+{Tue Jan 14 2025 6:37:1} [EB 🐞] error: ::1 - GET /api/v1/task/ 500 - 6.244 ms
+{Tue Jan 14 2025 6:37:47} [EB 🐞] error: ::1 - GET /api/v1/task/ 500 - 8.192 ms
+{Tue Jan 14 2025 6:38:9} [EB 🐞] error: ::1 - GET /api/v1/task/ 500 - 1.815 ms
+{Tue Jan 14 2025 6:38:11} [EB 🐞] error: ::1 - GET /api/v1/task/ 500 - 1.214 ms
+{Tue Jan 14 2025 6:41:46} [EB 🐞] error: ::1 - POST /api/v1/task/ 500 - 5.918 ms
+{Tue Jan 14 2025 6:41:51} [EB 🐞] error: ::1 - POST /api/v1/task/ 400 - 4.143 ms
+{Tue Jan 14 2025 6:42:0} [EB 🐞] error: ::1 - PATCH /api/v1/task/ 404 - 0.404 ms

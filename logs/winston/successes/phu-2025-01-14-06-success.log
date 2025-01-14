@@ -1,0 +1,64 @@
+{Tue Jan 14 2025 6:20:20} [EB 🚀] info: [32m🚀 Database connected successfully[39m
+{Tue Jan 14 2025 6:20:20} [EB 🚀] info: [33m♻️  Application listening on port:5000[39m
+{Tue Jan 14 2025 6:21:19} [EB 🚀] info: [32m🚀 Database connected successfully[39m
+{Tue Jan 14 2025 6:21:19} [EB 🚀] info: [33m♻️  Application listening on port:5000[39m
+{Tue Jan 14 2025 6:21:36} [EB 🚀] info: [32m🚀 Database connected successfully[39m
+{Tue Jan 14 2025 6:21:36} [EB 🚀] info: [33m♻️  Application listening on port:5000[39m
+{Tue Jan 14 2025 6:21:56} [EB 🚀] info: [32m🚀 Database connected successfully[39m
+{Tue Jan 14 2025 6:21:56} [EB 🚀] info: [33m♻️  Application listening on port:5000[39m
+{Tue Jan 14 2025 6:22:19} [EB 🚀] info: [32m🚀 Database connected successfully[39m
+{Tue Jan 14 2025 6:22:19} [EB 🚀] info: [33m♻️  Application listening on port:5000[39m
+{Tue Jan 14 2025 6:22:24} [EB 🚀] info: [32m🚀 Database connected successfully[39m
+{Tue Jan 14 2025 6:22:24} [EB 🚀] info: [33m♻️  Application listening on port:5000[39m
+{Tue Jan 14 2025 6:24:48} [EB 🚀] info: [32m🚀 Database connected successfully[39m
+{Tue Jan 14 2025 6:24:48} [EB 🚀] info: [33m♻️  Application listening on port:5000[39m
+{Tue Jan 14 2025 6:25:4} [EB 🚀] info: [32m🚀 Database connected successfully[39m
+{Tue Jan 14 2025 6:25:4} [EB 🚀] info: [33m♻️  Application listening on port:5000[39m
+{Tue Jan 14 2025 6:25:26} [EB 🚀] info: [32m🚀 Database connected successfully[39m
+{Tue Jan 14 2025 6:25:26} [EB 🚀] info: [33m♻️  Application listening on port:5000[39m
+{Tue Jan 14 2025 6:25:53} [EB 🚀] info: [32m🚀 Database connected successfully[39m
+{Tue Jan 14 2025 6:25:53} [EB 🚀] info: [33m♻️  Application listening on port:5000[39m
+{Tue Jan 14 2025 6:27:53} [EB 🚀] info: [32m🚀 Database connected successfully[39m
+{Tue Jan 14 2025 6:27:53} [EB 🚀] info: [33m♻️  Application listening on port:5000[39m
+{Tue Jan 14 2025 6:27:59} [EB 🚀] info: [32m🚀 Database connected successfully[39m
+{Tue Jan 14 2025 6:27:59} [EB 🚀] info: [33m♻️  Application listening on port:5000[39m
+{Tue Jan 14 2025 6:28:3} [EB 🚀] info: [32m🚀 Database connected successfully[39m
+{Tue Jan 14 2025 6:28:3} [EB 🚀] info: [33m♻️  Application listening on port:5000[39m
+{Tue Jan 14 2025 6:29:2} [EB 🚀] info: [32m🚀 Database connected successfully[39m
+{Tue Jan 14 2025 6:29:2} [EB 🚀] info: [33m♻️  Application listening on port:5000[39m
+{Tue Jan 14 2025 6:32:14} [EB 🚀] info: [32m🚀 Database connected successfully[39m
+{Tue Jan 14 2025 6:32:14} [EB 🚀] info: [33m♻️  Application listening on port:5000[39m
+{Tue Jan 14 2025 6:32:27} [EB 🚀] info: [32m🚀 Database connected successfully[39m
+{Tue Jan 14 2025 6:32:27} [EB 🚀] info: [33m♻️  Application listening on port:5000[39m
+{Tue Jan 14 2025 6:32:27} [EB 🚀] info: ::1 - POST /api/v1/task/ 200 - 21.740 ms
+{Tue Jan 14 2025 6:33:44} [EB 🚀] info: ::1 - POST /api/v1/task/ 200 - 99.724 ms
+{Tue Jan 14 2025 6:35:17} [EB 🚀] info: [32m🚀 Database connected successfully[39m
+{Tue Jan 14 2025 6:35:17} [EB 🚀] info: [33m♻️  Application listening on port:5000[39m
+{Tue Jan 14 2025 6:35:37} [EB 🚀] info: [32m🚀 Database connected successfully[39m
+{Tue Jan 14 2025 6:35:37} [EB 🚀] info: [33m♻️  Application listening on port:5000[39m
+{Tue Jan 14 2025 6:35:43} [EB 🚀] info: ::1 - POST /api/v1/task/ 200 - 19.816 ms
+{Tue Jan 14 2025 6:36:15} [EB 🚀] info: [32m🚀 Database connected successfully[39m
+{Tue Jan 14 2025 6:36:16} [EB 🚀] info: [33m♻️  Application listening on port:5000[39m
+{Tue Jan 14 2025 6:36:23} [EB 🚀] info: [32m🚀 Database connected successfully[39m
+{Tue Jan 14 2025 6:36:23} [EB 🚀] info: [33m♻️  Application listening on port:5000[39m
+{Tue Jan 14 2025 6:36:52} [EB 🚀] info: ::1 - DELETE /api/v1/task/6785b15f1d797b2a91b1fc65 200 - 10.362 ms
+{Tue Jan 14 2025 6:37:42} [EB 🚀] info: [32m🚀 Database connected successfully[39m
+{Tue Jan 14 2025 6:37:42} [EB 🚀] info: [33m♻️  Application listening on port:5000[39m
+{Tue Jan 14 2025 6:37:44} [EB 🚀] info: [32m🚀 Database connected successfully[39m
+{Tue Jan 14 2025 6:37:44} [EB 🚀] info: [33m♻️  Application listening on port:5000[39m
+{Tue Jan 14 2025 6:37:46} [EB 🚀] info: [32m🚀 Database connected successfully[39m
+{Tue Jan 14 2025 6:37:46} [EB 🚀] info: [33m♻️  Application listening on port:5000[39m
+{Tue Jan 14 2025 6:38:16} [EB 🚀] info: [32m🚀 Database connected successfully[39m
+{Tue Jan 14 2025 6:38:16} [EB 🚀] info: [33m♻️  Application listening on port:5000[39m
+{Tue Jan 14 2025 6:38:17} [EB 🚀] info: ::1 - GET /api/v1/task/ 200 - 18.541 ms
+{Tue Jan 14 2025 6:39:0} [EB 🚀] info: ::1 - POST /api/v1/task/ 200 - 17.218 ms
+{Tue Jan 14 2025 6:39:42} [EB 🚀] info: ::1 - POST /api/v1/task/ 200 - 3.903 ms
+{Tue Jan 14 2025 6:40:45} [EB 🚀] info: ::1 - POST /api/v1/task/ 200 - 3.881 ms
+{Tue Jan 14 2025 6:40:49} [EB 🚀] info: ::1 - GET /api/v1/task/ 200 - 5.393 ms
+{Tue Jan 14 2025 6:40:54} [EB 🚀] info: ::1 - GET /api/v1/task/6785b28d940a4c145959d9a3 200 - 3.397 ms
+{Tue Jan 14 2025 6:41:11} [EB 🚀] info: ::1 - GET /api/v1/task/ 200 - 3.106 ms
+{Tue Jan 14 2025 6:42:16} [EB 🚀] info: ::1 - PATCH /api/v1/task/6785b224940a4c145959d99f - - - ms
+{Tue Jan 14 2025 6:42:33} [EB 🚀] info: [32m🚀 Database connected successfully[39m
+{Tue Jan 14 2025 6:42:33} [EB 🚀] info: [33m♻️  Application listening on port:5000[39m
+{Tue Jan 14 2025 6:42:34} [EB 🚀] info: ::1 - PATCH /api/v1/task/6785b224940a4c145959d99f 200 - 17.357 ms
+{Tue Jan 14 2025 6:42:42} [EB 🚀] info: ::1 - GET /api/v1/task/6785b224940a4c145959d99f 200 - 4.966 ms
